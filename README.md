@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Developer & Tech Enthusiast!
+# 👋 Hi, I'm a Developer & Tech Enthusiast Rudra!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Accountancy+%26+Computer+Applications;Python+%26+C+Developer;Building+AI-Assisted+Content;Mastering+the+Code" alt="Typing SVG" />
